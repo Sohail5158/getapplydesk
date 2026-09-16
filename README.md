@@ -22,3 +22,5 @@ npm run build
 ## Deployment
 
 This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml` that builds the Vite app and deploys `dist` to GitHub Pages whenever `main` is updated.
+
+GitHub Pages URL, once the workflow completes: https://sohail5158.github.io/getapplydesk/
